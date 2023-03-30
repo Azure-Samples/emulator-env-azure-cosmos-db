@@ -1,0 +1,4 @@
+👋 Thanks for opening this starter environment in GitHub Codespaces.
+   - This environment contains the Azure Cosmos DB emulator container running with API for NoSQL at port 8081.
+
+📋 Feel free to create a new repository from this template repo and build your own exciting projects!
