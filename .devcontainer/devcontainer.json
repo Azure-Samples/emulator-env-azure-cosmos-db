@@ -9,8 +9,10 @@
         "vscode": {
             "extensions": [
                 "ms-vscode.azurecli",
+                "ms-dotnettools.csharp",
                 "ms-azuretools.vscode-cosmosdb"
             ]
         }
-    }
+    },
+    "onCreateCommand": "/bin/bash -c .devcontainer/install-certificate.sh"
 }
